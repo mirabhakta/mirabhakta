@@ -1,6 +1,6 @@
 ## Hi, I’m Mira 👋
 
-Full-stack student developer using **Python** + **React** to build practical, high-impact projects.
+Full-stack student developer using mainly **Python** + **React** to build practical, high-impact projects.
 
 ---
 
@@ -25,8 +25,3 @@ Full-stack student developer using **Python** + **React** to build practical, hi
 ### 🌱 Currently Exploring
 * Open source contributions
 * Machine learning & computer vision
-
----
-
-### 🔗 Let's Connect
-* **LinkedIn:** [linkedin.com/in/mirabbhakta](https://www.linkedin.com/in/mirabbhakta/)
