@@ -1,4 +1,4 @@
-## Hi, I’m Mira 👋
+## Hi, I’m Mira! 👋
 
 Full-stack student developer using mainly **Python** + **React** to build practical, high-impact projects.
 
