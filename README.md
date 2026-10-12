@@ -30,7 +30,7 @@ Personal finance application for tracking spending, managing budgets, setting sa
 
 **React · JavaScript · Data Visualization**
 
-### ❤️ [Wellby](https://github.com/ctanielian/Wellby-CPPHackathon)
+### ❤️ [Wellby](https://github.com/mirabhakta/Wellby)
 Hackathon project focused on creating a more accessible and intuitive wellness experience.
 
 ## 🛠 Tech
