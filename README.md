@@ -1,49 +1,37 @@
 # Hi, I'm Mira 👋
 
-CS + Economics student at Cal Poly Pomona, interested in software engineering, AI/ML, and building products at the intersection of technology and real-world problems.
+I'm a Computer Science student at Cal Poly Pomona, minoring in Economics.
 
-I enjoy working with Python, React, and data-driven tools, and I'm currently exploring ideas in music technology and interactive learning.
+I like building things, figuring out how they work, and finding ways to make them better. Lately, I've been spending most of my time on AI agents, full-stack development, and a few projects of my own.
 
-## 🚀 Currently Building
+### What I'm working on
 
-**Text-Quest** — An ADHD-friendly language-learning mystery RPG where players build vocabulary and language comprehension by investigating clues, solving puzzles, and making choices that shape the story.
+- **ContextOS** — Building a way to keep context and memory across AI tools and conversations.
+- **[Jarvis](https://github.com/mirabhakta/jarvis)** — My personal assistant project, connecting the tools and projects I use.
+- **[VoiceStudio Live](https://github.com/mirabhakta/VoiceStudio-Live)** — Experimenting with real-time voice conversion, speech models, and audio processing.
 
-## 💻 Featured Projects
+### Some things I've built
 
-### 📦 [inventoryIQ](https://github.com/mirabhakta/inventoryIQ)
-ML-powered retail demand forecasting with risk alerts and AI-generated summaries that explain predictions in plain English.
+- **[LedgerGuard](https://github.com/mirabhakta/LedgerGuard)** — Built at LA Hacks 2026. Uses AI and a rules engine to flag financial anomalies and help review transactions.
+- **[Kandor](https://github.com/mirabhakta/hacktech-26-kandor)** — A Chrome extension that helps detect potentially harmful online conversations. Built at Hacktech 2026.
+- **[inventoryIQ](https://github.com/mirabhakta/inventoryIQ)** — A retail forecasting app with demand predictions, risk alerts, and AI-generated summaries.
+- **[Wellby](https://github.com/mirabhakta/Wellby)** — A wellness app for tech workers, built at the CPP AI Fair 2026. Placed 3rd out of 51 teams.
+- **[Spotify Collaboration Network](https://github.com/mirabhakta/Spotify_Collaboration_Network)** — Visualizing relationships between artists through network analysis.
 
-**Python · Machine Learning · Data Analysis · Gemini AI**
+### Outside of my projects
 
-### 🎵 [Spotify Artist Collaboration Network Dashboard](https://github.com/mirabhakta/CS4230-dashboard)
-Interactive dashboard exploring Spotify artist collaborations through network analysis, identifying influential artists, bridge connections, and genre communities.
+- **NASA L'SPACE NPWEE** — Programmatics Lead (Budget & Risk) and Lead Data Analyst.
+- **Undergraduate Research** — Studying equity crowdfunding, startup outcomes, and campaign language.
+- **Metal Toad** — Former PMO intern, working with automation, cloud tools, and project operations.
+- **LA Tech Rising** — Led a software engineering team building inventoryIQ.
 
-**Python · Streamlit · Network Analysis · Pandas**
+### Tools I use
 
-### 🛡️ [kandor](https://github.com/mirabhakta/hacktech-26-kandor)
-Chrome extension built to identify potential online grooming, manipulation, and harmful interactions using NLP and Gemma.
+**Languages:** Python, TypeScript, JavaScript, Java, SQL  
+**Web:** React, FastAPI, Node.js, Tailwind CSS  
+**Data & ML:** pandas, scikit-learn, Streamlit  
+**Other:** Git, GitHub, Docker, Linux, AWS
 
-**JavaScript · Chrome Extensions · NLP · Gemma**
+### Elsewhere
 
-### 💸 [BudgetPlanner](https://github.com/mirabhakta/BudgetPlanner)
-Personal finance application for tracking spending, managing budgets, setting savings goals, and comparing debt repayment strategies.
-
-**React · JavaScript · Data Visualization**
-
-### ❤️ [Wellby](https://github.com/mirabhakta/Wellby)
-Hackathon project focused on creating a more accessible and intuitive wellness experience.
-
-## 🛠 Tech
-
-**Languages:** Python, JavaScript, Java, SQL  
-**Frontend:** React, HTML/CSS  
-**Data & ML:** pandas, scikit-learn, network analysis  
-**Tools:** Git, GitHub, REST APIs, Streamlit
-
-## 🌱 Currently Exploring
-
-- Music technology and creative software
-- Machine learning and computer vision
-- AI-powered applications
-- Open-source development
-- Interactive learning and game development
+[Portfolio](https://mirabhakta.github.io) · [LinkedIn](https://www.linkedin.com/in/mirabhakta/)
